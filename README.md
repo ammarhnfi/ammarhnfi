@@ -17,7 +17,7 @@ An ambitious man who loves to cook fries, day dream at nights and sometime codes
 - [Twitter](https://twitter.com/ammarhnfi) 
 - [LinkedIn](https://www.linkedin.com/in/ammarhnfi/) 
 - [My personal portfolio](http://linktr.ee/ammarhnfi) 
-- My personal blog- [Garima Codes](https://ammarhnfi.home.blog/)
+- [My personal blog](https://ammarhnfi.home.blog/)
 - [Medium](https://medium.com/@ammarhanafi10)
 - [Instagram](https://instagram.com/ammarhnfi)
 
