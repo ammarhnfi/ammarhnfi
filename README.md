@@ -24,8 +24,11 @@ An ambitious man who loves to cook fries, day dream at nights and sometime codes
 ### 🌏 Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![R](https://img.shields.io/badge/-R-000?&logo=R)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 <!--![C](https://img.shields.io/badge/-C-000?&logo=C)-->
 <!--![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)-->
 <!--![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)-->
