@@ -48,6 +48,14 @@ An ambitious man who loves to cook fries, day dream at nights and sometime codes
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)-->
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/ammarhnfi">
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ammarhnfi&layout=compact&langs_count=8&theme=buefy"/>
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ammarhnfi&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+</a>
+</p>
+
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
 <!--
