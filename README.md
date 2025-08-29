@@ -52,7 +52,7 @@ An ambitious man who loves to cook fries, day dream at nights and sometime codes
 <p align="left">
 <a href="https://github.com/ammarhnfi">
 <img length="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ammarhnfi&layout=compact&langs_count=8&theme=buefy"/>
-<img length="300em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ammarhnfi&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+<img length="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ammarhnfi&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
