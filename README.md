@@ -49,13 +49,6 @@ An ambitious man who loves to cook fries, day dream at nights and sometime codes
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)-->
 
 ### Github Statistic
-<p align="left">
-<a href="https://github.com/ammarhnfi">
-<img length="300em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ammarhnfi&layout=compact&langs_count=8&theme=buefy"/>
-<img length="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ammarhnfi&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-</a>
-</p>
-
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ammarhnfi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarhnfi&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
