@@ -7,7 +7,7 @@ He/His
 
 ### 🌱 What do I do and What have I done? 
 
-- 
+- Participated in Asah led by Dicoding x Accenture Program
 
 
 ### ⚡ One line that describes me best? 
